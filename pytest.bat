@@ -1,0 +1,1 @@
+"c:\Program Files (x86)\IronPython 2.7\ipy" "c:\Program Files (x86)\IronPython 2.7\Scripts\py.test" -s --no-assert "%1%"
